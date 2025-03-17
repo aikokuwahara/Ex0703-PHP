@@ -8,7 +8,7 @@
 	<fieldset>
 		<legend> Calcular IMC </legend>
 		<form method="post" action = "calcular.php">
-		Informe a altura e o peso para saber o IMC:
+		Digite a altura e o peso para saber o IMC:
 		<br />
 		<br />
 		<input type = "text" name = "$al" size = "25" /> <br />

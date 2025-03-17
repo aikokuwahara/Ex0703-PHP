@@ -4,10 +4,10 @@
     $n2 = $_POST['$n2']; 
     
     if ($n1 > $n2) {
-        echo "O primeiro é maior ";
+        echo "O primeiro número é maior ";
     }
     
     else {
-        echo "O segundo é maior ";
+        echo "O segundo número é maior ";
     }
 ?>

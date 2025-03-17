@@ -8,7 +8,7 @@
 	<fieldset>
 		<legend> Maior ou Menor </legend>
 		<form method="post" action = "calcular.php">
-		Insira 2 números e veja qual é o maior:
+		Digite 2 números e veja qual é o maior:
 		<br />
 		<br />
 		<input type = "text" name = "$n1" size = "25" /> <br />
